@@ -1,6 +1,6 @@
-# 七四六家落とし Privacy Policy
+# 七四六家落とし Privacy Policy / Support
 
-Public GitHub Pages repository for the privacy policy of the iOS game `七四六家落とし`.
+Public GitHub Pages repository for the privacy policy and support page of the iOS game `七四六家落とし`.
 
-- Active privacy policy URL: `https://hide-1156.github.io/nanashiroke-dropgame-privacy/privacy.html`
-- Organization URL after CodeFaber-jp Pages is enabled: `https://codefaber-jp.github.io/nanashiroke-dropgame-privacy/privacy.html`
+- Privacy policy URL: `https://codefaber-jp.github.io/nanashiroke-dropgame-privacy/privacy.html`
+- Support URL: `https://codefaber-jp.github.io/nanashiroke-dropgame-privacy/support.html`
